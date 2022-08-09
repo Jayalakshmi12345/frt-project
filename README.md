@@ -20,7 +20,7 @@ Here I created a static website Which provides medical sevices to the patients a
 ![](images/Reviews.png)
 
 ##  Book My Slot page
-![](images/Book my slot.png)
+![](images/Book%20my%20slot.png)
 
 ## Microsoft Azure page
-![](images/MS Azure.png)
+![](images/MS%20Azure.png)
