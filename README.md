@@ -1,7 +1,7 @@
 ## Future Ready Talent project
-Here I created a static website Which provides medical sevices to the patients at ease.
+Here I created a static website which provides medical sevices to the patients at ease.
 I have deployed it using Microsoft Azure.
-In MS Azure,I have sected the static web apps sevice and deployed my website.
+In MS Azure,I have selected the static web apps sevice and deployed the website.
 
 ## My website link: https://brave-ground-034b55810.1.azurestaticapps.net
 
