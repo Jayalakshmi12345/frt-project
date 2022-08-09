@@ -5,7 +5,7 @@ In MS Azure,I have selected the static web apps sevice and deployed the website.
 
 ## My website link: https://brave-ground-034b55810.1.azurestaticapps.net
 
-## Demo video link:https://youtu.be/ii4R2hkXrbM
+## Demo video link:
 
 ## Home page
 ![](images/home.png)
