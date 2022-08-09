@@ -1,7 +1,7 @@
 ## Future Ready Talent project
 Here I created a static website Which provides medical sevices to the patients at ease.
 
-## My website link: https://white-coast-05628ec10.1.azurestaticapps.net
+## My website link: https://brave-ground-034b55810.1.azurestaticapps.net
 
 ## Demo video link:https://youtu.be/ii4R2hkXrbM
 
@@ -11,24 +11,16 @@ Here I created a static website Which provides medical sevices to the patients a
 
 
 ## About page
-![](Screenshots/Screenshot%20(12).png)
-![](Screenshots/Screenshot%20(13).png)
-![](Screenshots/Screenshot%20(14).png)
-![](Screenshots/Screenshot%20(15).png)
-![](Screenshots/Screenshot%20(16).png)
-![](Screenshots/Screenshot%20(17).png)
-![](Screenshots/Screenshot%20(18).png)
+![](images/about.png)
 
-## Departments paage
-![](Screenshots/Screenshot%20(19).png)
-![](Screenshots/Screenshot%20(20).png)
-![](Screenshots/Screenshot%20(21).png)
+## Facilities paage
+![](images/Facilities.png)
 
-## Contact page
-![](Screenshots/Screenshot%20(22).png)
-![](Screenshots/Screenshot%20(23).png)
-![](Screenshots/Screenshot%20(24).png)
-![](Screenshots/Screenshot%20(25).png)
+## Review page
+![](images/Reviews.png)
 
-##Microsoft Azure page
-![](Screenshots/Screenshot%20(26).png)
+##  Book My Slot page
+![](images/Book my slot.png)
+
+## Microsoft Azure page
+![](images/MS Azure.png)
