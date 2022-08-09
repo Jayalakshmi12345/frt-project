@@ -6,15 +6,8 @@ Here I created a static website Which provides medical sevices to the patients a
 ## Demo video link:https://youtu.be/ii4R2hkXrbM
 
 ## Home page
-![](Screenshots/Screenshot%20(3).png)
-![](Screenshots/Screenshot%20(4).png)
-![](Screenshots/Screenshot%20(5).png)
-![](Screenshots/Screenshot%20(6).png)
-![](Screenshots/Screenshot%20(7).png)
-![](Screenshots/Screenshot%20(8).png)
-![](Screenshots/Screenshot%20(9).png)
-![](Screenshots/Screenshot%20(10).png)
-![](Screenshots/Screenshot%20(11).png)
+![](images/home.png)
+
 
 
 ## About page
